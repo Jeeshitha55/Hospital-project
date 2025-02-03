@@ -1,1 +1,1 @@
-# Hospitel-project
+# Hospital-project
